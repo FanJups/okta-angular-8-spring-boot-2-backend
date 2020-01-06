@@ -32,4 +32,6 @@ https://www.google.com/search?sxsrf=ACYBGNScpNQdC0IwLpEJJRQGArI0FDKi6A%3A1578306
 
 https://stackoverflow.com/questions/42257379/how-to-configure-lombok-with-maven-compiler-plugin
 
+http://anthonywhitford.com/lombok.maven/lombok-maven-plugin/usage.html
+
 
