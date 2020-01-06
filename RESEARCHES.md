@@ -4,4 +4,12 @@ https://www.google.com/search?sxsrf=ACYBGNRWLrgxYwnKZJU_DUBJ4eCms8N62w%3A1578301
 
 https://stackoverflow.com/questions/11803948/lombok-is-not-generating-getter-and-setter
 
+# lombock java 8
+
+https://www.google.com/search?q=lombock+java+8&oq=lombock+java+8&aqs=chrome..69i57j0l7.9011j0j7&sourceid=chrome&ie=UTF-8
+
+https://projectlombok.org/
+
+https://projectlombok.org/setup/maven
+
 
