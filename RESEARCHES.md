@@ -14,4 +14,10 @@ https://projectlombok.org/setup/maven
 
 https://www.baeldung.com/intro-to-project-lombok
 
+# lombok data annotation
+
+https://www.google.com/search?q=lombok+data+annotation&oq=lombock.Data&aqs=chrome.3.69i58j69i57j0l3.27149j0j7&sourceid=chrome&ie=UTF-8
+
+https://projectlombok.org/features/Data
+
 
