@@ -12,4 +12,6 @@ https://projectlombok.org/
 
 https://projectlombok.org/setup/maven
 
+https://www.baeldung.com/intro-to-project-lombok
+
 
