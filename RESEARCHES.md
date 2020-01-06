@@ -26,6 +26,10 @@ https://www.google.com/search?q=lombock+maven+dependency+version+compatible+with
 
 https://projectlombok.org/mavenrepo/ 
 
+# using lombok in java 8 maven
 
+https://www.google.com/search?sxsrf=ACYBGNScpNQdC0IwLpEJJRQGArI0FDKi6A%3A1578306048505&ei=AAoTXu3DHvSi1fAPh4iBiAw&q=using+lombok+in+java+8+maven&oq=using+lombock+in+java8+&gs_l=psy-ab.1.1.33i22i29i30l10.162840.177307..180770...1.2..0.1129.10642.2-6j8j3j1j1j3......0....1..gws-wiz.......0i71j0j0i10j0i203j0i22i30j0i13j0i13i30j0i19j0i22i30i19j33i160j33i10.KgKNm5lyKm0
+
+https://stackoverflow.com/questions/42257379/how-to-configure-lombok-with-maven-compiler-plugin
 
 
