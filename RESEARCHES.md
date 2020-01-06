@@ -24,7 +24,7 @@ https://projectlombok.org/features/Data
 
 https://www.google.com/search?q=lombock+maven+dependency+version+compatible+with+java+8&oq=lombock+maven+dependency+version+compatible+with+java+8&aqs=chrome..69i57.30277j0j7&sourceid=chrome&ie=UTF-8
 
-https://projectlombok.org/mavenrepo/
+https://projectlombok.org/mavenrepo/ 
 
 
 
