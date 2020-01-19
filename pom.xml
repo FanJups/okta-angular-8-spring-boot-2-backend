@@ -12,7 +12,7 @@
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>okta-angular-8-spring-boot-2-backend</name>
-	<description>4HWC Website Back End API</description>
+	<description>okta angular spring boot Back End</description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -64,6 +64,11 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		
+		<dependency>
+		    <groupId>org.springframework.boot</groupId>
+		    <artifactId>spring-boot-devtools</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
@@ -72,19 +77,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
-			    <!--   plugin>
-      <groupId>org.projectlombok</groupId>
-      <artifactId>lombok-maven-plugin</artifactId>
-      <version>1.18.10.0</version>
-      <executions>
-        <execution>
-          <phase>generate-sources</phase>
-          <goals>
-            <goal>delombok</goal>
-          </goals>
-        </execution>
-      </executions>
-    </plugin -->
+			    
 			
 		</plugins>
 	</build>
